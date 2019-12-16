@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f42a5db2-5495-4c68-9657-d0475f073fab" name="Default Changelist" comment="" />
+    <list default="true" id="f42a5db2-5495-4c68-9657-d0475f073fab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_loto_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/get_loto_data.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1UVLiYdwyhj3VzGx5XkCwojapCW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +25,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="get_loto_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Predict_loto" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/get_loto_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.get_loto_data" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -40,5 +79,116 @@
       <updated>1575436943319</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="108" key="#Updates" timestamp="1576322767332">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="312" y="108" key="#Updates/0.0.1440.900@0.0.1440.900" timestamp="1576322767332" />
+    <state x="400" y="177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576322158740">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="400" y="177" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1576322158740" />
+    <state width="1402" height="288" key="GridCell.Tab.0.bottom" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state width="1402" height="288" key="GridCell.Tab.0.center" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state width="1402" height="288" key="GridCell.Tab.0.left" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state width="1402" height="288" key="GridCell.Tab.0.right" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state width="1402" height="288" key="GridCell.Tab.1.bottom" timestamp="1576463905600">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576463905600" />
+    <state width="1402" height="288" key="GridCell.Tab.1.center" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state width="1402" height="288" key="GridCell.Tab.1.left" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state width="1402" height="288" key="GridCell.Tab.1.right" timestamp="1576463905599">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1402" height="288" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1576463905599" />
+    <state x="269" y="97" key="SettingsEditor" timestamp="1576405662962">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="269" y="97" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576405662962" />
+    <state x="92" y="92" width="1256" height="716" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1576329304531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="92" y="92" width="1256" height="716" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1576329304531" />
+    <state x="92" y="92" width="1256" height="716" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1576329304531">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="92" y="92" width="1256" height="716" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1440.900@0.0.1440.900" timestamp="1576329304531" />
+    <state x="416" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1576463962633">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="273" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1576463962633" />
+    <state x="383" y="190" width="672" height="678" key="search.everywhere.popup" timestamp="1576322787589">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="190" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576322787589" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_loto_data.py</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_loto_data.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_loto_data.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_loto_data.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_loto_data.py</url>
+          <line>49</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/get_loto_data.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
